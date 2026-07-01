@@ -1,6 +1,23 @@
-# Awesome Wealth Agent Skills
+<p align="center">
+  <img src="assets/hero.svg" alt="Awesome Wealth Agent Skills" width="100%">
+</p>
 
-A public-safe catalog of tools, repos, and agent patterns for building a private Agentic Wealth OS.
+<h1 align="center">Awesome Wealth Agent Skills</h1>
+
+<p align="center">
+  <strong>A public-safe catalog of tools, repos, and agent patterns for building a private Agentic Wealth OS.</strong>
+</p>
+
+<p align="center">
+  <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg"></a>
+  <a href="LICENSE"><img alt="License: CC0" src="https://img.shields.io/badge/license-CC0-10b981.svg"></a>
+</p>
+
+<p align="center">
+  <a href="#start-here">Start Here</a> ·
+  <a href="#core-categories">Categories</a> ·
+  <a href="#agentic-wealth-os-role">OS Role</a>
+</p>
 
 This repo is for research organization, source discovery, and agent skill design. It is not financial, investment, legal, tax, accounting, or securities advice.
 
@@ -18,6 +35,9 @@ This repo is for research organization, source discovery, and agent skill design
 
 - [Selection Matrix](docs/selection-matrix.md)
 - [Public Safety Rules](docs/public-safety.md)
+- [agentic-wealth-os](https://github.com/frankxai/agentic-wealth-os) — private wealth management planning engine.
+- [brother-property-os](https://github.com/frankxai/brother-property-os) — property asset tracking.
+- [property-intelligence-system](https://github.com/frankxai/property-intelligence-system) / [property-os-template](https://github.com/frankxai/property-os-template) / [property-portal-template](https://github.com/frankxai/property-portal-template) — real estate engines.
 - [Catalog Data](data/repos.json)
 - [Wealth Research Skill](skills/wealth-research/SKILL.md)
 
