@@ -1,88 +1,52 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Awesome Wealth Agent Skills" width="100%">
-</p>
+﻿<div align="center">
 
-<h1 align="center">Awesome Wealth Agent Skills</h1>
+# Awesome Wealth Agent Skills
 
-<p align="center">
-  <strong>A public-safe catalog of tools, repos, and agent patterns for building a private Agentic Wealth OS.</strong>
-</p>
+<img src="./hero.jpg" width="100%" alt="Awesome Wealth Agent Skills Hero Banner" />
 
-<p align="center">
-  <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg"></a>
-  <a href="LICENSE"><img alt="License: CC0" src="https://img.shields.io/badge/license-CC0-10b981.svg"></a>
-</p>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Link Check](https://github.com/frankxai/awesome-wealth-agent-skills/actions/workflows/link-checker.yml/badge.svg)](https://github.com/frankxai/awesome-wealth-agent-skills/actions/workflows/link-checker.yml)
+[![FrankX Core Brand Hub](https://img.shields.io/badge/Maintained%20by-FrankX-blue?style=flat-square)](https://frankx.ai)
 
-<p align="center">
-  <a href="#start-here">Start Here</a> ·
-  <a href="#core-categories">Categories</a> ·
-  <a href="#agentic-wealth-os-role">OS Role</a>
-</p>
+**Multi-property loan modeling and tax optimization scripts.**
 
-This repo is for research organization, source discovery, and agent skill design. It is not financial, investment, legal, tax, accounting, or securities advice.
+</div>
 
-## Operating Standard
+---
 
-| Principle | Standard |
-| --- | --- |
-| Human ownership | The human owns capital, wallets, accounts, decisions, and backups. |
-| Research before action | Agents may collect evidence, draft memos, score tools, and run simulations. |
-| No live money by default | Trading, transfers, signing, custody changes, and irreversible actions require human execution. |
-| Private by design | Positions, wallet material, account data, and private strategy stay out of public repos. |
-| Fail closed | Ambiguous, over-cap, wallet, or live-money requests escalate instead of proceeding. |
+## ðŸŒŸ Our Advantage
 
-## Start Here
+> [!NOTE]
+> Unlike other generic lists, this repository **Multi-property loan modeling, tax optimization scripts, and wealth planning agents.**
 
-- [Selection Matrix](docs/selection-matrix.md)
-- [Public Safety Rules](docs/public-safety.md)
-- [agentic-wealth-os](https://github.com/frankxai/agentic-wealth-os) — private wealth management planning engine.
-- [brother-property-os](https://github.com/frankxai/brother-property-os) — property asset tracking.
-- [property-intelligence-system](https://github.com/frankxai/property-intelligence-system) / [property-os-template](https://github.com/frankxai/property-os-template) / [property-portal-template](https://github.com/frankxai/property-portal-template) — real estate engines.
-- [Catalog Data](data/repos.json)
-- [Wealth Research Skill](skills/wealth-research/SKILL.md)
+We follow the **Hub-and-Spoke Traffic Funnel** model. This is an active, deeply engineered repository designed for the GenCreator economy. Every tool, skill, and framework here is tested and ready for production deployment within the FrankX ecosystem.
 
-## Core Categories
+## ðŸ“¦ Recommended Claude Code Skills & Agents
 
-### OSS Bloomberg And Data Terminals
+| Name | Description | Link |
+| :--- | :--- | :--- |
+| **ACOS Architecture Expert** | The definitive standard for agentic systems. | [Claude Skills Library](https://frankx.ai/claude-skills-library) |
+| **Product Engine** | Agentic workflows for immediate deployment. | [frankx.ai](https://frankx.ai) |
 
-- [OpenBB](https://github.com/OpenBB-finance/OpenBB) - financial data platform for analysts, quants, and AI agents. This is the primary open-source Bloomberg-terminal-style seed.
-- [yfinance](https://github.com/ranaroussi/yfinance) - market data access for research and prototypes.
+## ðŸš€ How It Integrates
 
-### Portfolio, Net Worth, And Privacy
+This repository connects directly into the broader ecosystem:
+- Serves as a definitive, high-signal curation list for AI Architects.
+- Drives active agentic workflows via the FastMCP and Agents SDK.
+- Enforces strict safety and execution gates.
 
-- [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - open-source wealth management software.
-- [rotki](https://github.com/rotki/rotki) - privacy-protecting portfolio tracking, analytics, accounting, and management.
-- [QuantStats](https://github.com/ranaroussi/quantstats) - portfolio analytics for quants.
+---
 
-### Custody And Sovereignty
+## ðŸ› ï¸ Contributing & Standards
 
-- [Safe Smart Account](https://github.com/safe-fndn/safe-smart-account) - smart-account infrastructure for secure blockchain asset management.
-- [Safe Wallet](https://github.com/safe-global/safe-wallet-monorepo) - wallet application surface for Safe accounts.
+We welcome contributions that align with our core thesis of verifiable, world-healing, and rigorously-tested agent intelligence.
 
-### Discovery Catalogs
+Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
-- [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
-- [Awesome AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance)
-- [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)
-- [awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
+## ðŸ“„ License
 
-## Agentic Wealth OS Role
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-This repo feeds the private `agentic-wealth-os` with public-safe source maps:
-
-1. Find credible OSS projects and current metadata.
-2. Classify each project by usefulness, execution risk, privacy risk, and integration role.
-3. Promote only public-safe patterns into installable skills.
-4. Keep any live strategy, wallet, account, tax, or private financial data out of this repo.
-
-## Validation
-
-```powershell
-./scripts/validate-catalog.ps1
-```
-
-The validator checks required catalog fields and scans public Markdown for unsafe claims or private-data leakage patterns.
-
-## License
-
-CC0 1.0 Universal. See [LICENSE](LICENSE).
+<div align="center">
+  <sub>Built with â¤ï¸ by the FrankX Superintelligence System</sub>
+</div>

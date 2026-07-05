@@ -1,39 +1,20 @@
-# Contributing
+# Contributing Standards
 
-Contributions should improve the catalog without turning it into a noisy dump.
+We welcome contributions that align with our core thesis of **verifiable, world-healing, and rigorously-tested agent intelligence**.
 
-## Good Additions
+## The Golden Rules
 
-- Active open-source projects with clear licenses or known license status.
-- Public documentation, papers, or reference implementations.
-- Tools that help research, privacy, custody, portfolio tracking, simulation, or governance.
-- Clear notes on what a project is useful for and what it should not be used for.
+1. **No Hallucinated Tooling**: If you submit an agent skill, prompt, or tool, it must be verified to work against a real API or framework.
+2. **Safety First**: Any capability that interfaces with the physical world, live capital, or critical infrastructure must include strict human-in-the-loop approval gates.
+3. **High Signal, Low Noise**: We prefer deeply curated, opinionated lists over exhaustive link dumps. If you add a repository, explain *why* it is the best-in-class choice for that specific layer of the agent OS.
+4. **Formatting**: Ensure your Markdown is clean. If adding to a list, use the existing `<details>` structure to preserve the scannability of the README.
 
-## Required Entry Fields
+## How to Submit
 
-Catalog entries in `data/repos.json` must include:
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/amazing-new-skill`).
+3. Commit your changes (`git commit -m 'feat: Add incredible new skill'`).
+4. Push to the branch (`git push origin feature/amazing-new-skill`).
+5. Open a Pull Request.
 
-- `name`
-- `url`
-- `category`
-- `assetClass`
-- `integrationUse`
-- `executionRisk`
-- `privacyRisk`
-- `whyIncluded`
-- `notFor`
-- `reviewedAt`
-
-## Safety Rules
-
-- No private financial details.
-- No wallet material.
-- No guaranteed-return language.
-- No instructions to bypass human approval.
-- No regulated advice.
-
-Run:
-
-```powershell
-./scripts/validate-catalog.ps1
-```
+Your PR will be reviewed against our strict quality gates. We expect a high standard of engineering and documentation. Thank you for helping build the intelligence layer.
