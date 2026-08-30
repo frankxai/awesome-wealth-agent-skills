@@ -10,6 +10,25 @@ This is an independent, **web-first** catalog. It remains useful if every FrankX
 
 Expose sources, dates, currencies, and assumptions. Keep holdings, tax, custody, regulated advice, and decisions with authorized humans/professionals.
 
+<!-- earned-skill-index:2026-08-30 -->
+
+## Earned agent skills (start here)
+
+Operators get leverage from **about 5–7 named workflows**, not bulk dumps. Hub: [https://github.com/frankxai/awesome-hermes-agent-skills](https://github.com/frankxai/awesome-hermes-agent-skills) · [earned index](https://github.com/frankxai/awesome-hermes-agent-skills/blob/main/docs/EARNED-SKILLS.md) · [safety gate](https://github.com/frankxai/awesome-hermes-agent-skills/blob/main/docs/QUALITY-AND-SAFETY.md).
+
+**Wealth research skills (not advice)**
+
+| Pack | Job |
+| --- | --- |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Open analyst / quant data |
+| [microsoft/qlib](https://github.com/microsoft/qlib) | Quant research platform |
+| [longbridge/skills](https://github.com/longbridge/skills) | Markets / portfolio agent skills |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Scan before install |
+| [wordbricks onequery-cli](https://github.com/wordbricks/skills/tree/main/skills/onequery-cli) | Governed read-only SQL |
+
+Scan with [NVIDIA SkillSpector](https://github.com/NVIDIA/SkillSpector) before a live profile. Do not install unsigned ZIP/S3 skill blobs or OpenClaw mass dumps.
+
+
 ## Peer directories and standards
 
 [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) · [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats)
@@ -64,4 +83,4 @@ Open a PR with a primary URL, one-sentence distinct value, current maintenance e
 
 This monthly pulse queried GitHub repository metadata on **2026-08-03** for identity, approximate stars, archived state, activity, and license posture. `NOASSERTION` means GitHub did not return a standard SPDX identifier; review the repository license before adoption. Counts are dated discovery signals, not rankings. Nothing here is financial, legal, medical, or safety advice.
 
-Maintained as independent, web-first curation by FrankX. Last research pulse: **2026-08-03**.
+Maintained as independent, web-first curation by FrankX. Last research pulse: **2026-08-30**.
