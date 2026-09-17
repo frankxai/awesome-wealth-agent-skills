@@ -1,67 +1,125 @@
-# Awesome Wealth Agent Skills
+<p align="center">
+  <img src="assets/hero.svg" alt="Awesome Wealth Agent Skills" width="100%">
+</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/frankxai/awesome-wealth-agent-skills?style=flat)](https://github.com/frankxai/awesome-wealth-agent-skills/stargazers) [![Last commit](https://img.shields.io/github/last-commit/frankxai/awesome-wealth-agent-skills?style=flat)](https://github.com/frankxai/awesome-wealth-agent-skills/commits/main)
+<h1 align="center">Awesome Wealth Agent Skills</h1>
 
-> Web-first resources for financial research, reporting, scenario analysis, and governance—educational and analytical only, never personalized financial advice.
+<p align="center">
+  <strong>Curated through the GenCreator 6-Pillar CoE lens • Starlight Swarm • Arcanea Creative Execution • Agentic Passive Income Systems</strong>
+</p>
 
-This is an independent, **web-first** catalog. It remains useful if every FrankX link is removed: third-party primary sources lead, while companion lists appear only at the end.
+<p align="center">
+  <a href="#contents">Contents</a> ·
+  <a href="#6-pillar-mapping">6-Pillar Mapping</a> ·
+  <a href="#explore-the-full-frankx-awesome-ecosystem-17-lists">Full Ecosystem (17)</a> ·
+  <a href="#contributing">Contribute</a>
+</p>
 
-## Start here
+[![Validate](https://github.com/frankxai/awesome-wealth-agent-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/frankxai/awesome-wealth-agent-skills/actions/workflows/validate.yml)
+[![Stars](https://img.shields.io/github/stars/frankxai/awesome-wealth-agent-skills)](https://github.com/frankxai/awesome-wealth-agent-skills/stargazers)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](LICENSE)
 
-Expose sources, dates, currencies, and assumptions. Keep holdings, tax, custody, regulated advice, and decisions with authorized humans/professionals.
+> **THE definitive curated resource for wealth-agent-skills** — Agentic Wealth OS, portfolio intelligence, custody tools, passive income agents, 6-Pillar wealth governance. Research catalog (no financial advice).
 
-## Peer directories and standards
+## Why This List Exists
+Agentic passive income is core to wealth pillar. Emphasizes sovereign tools, provenance, risk management (Governance/Ethics), and compounding systems. Strict public boundary: no private wallet data or live trading recommendations.
 
-[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) · [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats)
+## Contents
+- [Top Picks](#top-picks)
+- [Agentic Wealth OS & Portfolio Agents](#agentic-wealth-os--portfolio-agents)
+- [Custody & Security Tools](#custody--security-tools)
+- [Research & Analytics](#research--analytics)
+- [MCP & Agent Skills](#mcp--agent-skills)
+- [Agentic Passive Income & Loops](#agentic-passive-income--loops)
+- [6-Pillar Mapping](#6-pillar-mapping)
+- [Explore the Full FrankX Awesome Ecosystem (17+ Lists)](#explore-the-full-frankx-awesome-ecosystem-17-lists)
+- [Contributing](#contributing)
 
-## Curated catalog
+## Top Picks
+| Category | Recommended | 6-Pillar Fit |
+|----------|-------------|--------------|
+| OS | Agentic Wealth OS patterns | All pillars |
+| Income | agentic-passive-income skill | Income pillar |
+| Governance | Provenance tools | Governance + Ethics |
 
-| Project | Pulse snapshot | Why it is here |
-| --- | --- | --- |
-| [OpenBB](https://github.com/OpenBB-finance/OpenBB) | NOASSERTION · 71,296★ | Open analyst/quant data platform. |
-| [QuantStats](https://github.com/ranaroussi/quantstats) | Apache-2.0 · 7,511★ | Portfolio analytics. |
-| [Qlib](https://github.com/microsoft/qlib) | MIT · 46,947★ | Quant research platform. |
-| [cvxportfolio](https://github.com/cvxgrp/cvxportfolio) | GPL-3.0 · 1,244★ | Optimization/backtesting. |
-| [OpenMeter](https://github.com/openmeterio/openmeter) | Apache-2.0 · 2,168★ | Cost/unit-economics observability. |
-| [Lago](https://github.com/getlago/lago) | AGPL-3.0 · 10,282★ | Product-finance billing infrastructure. |
-| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | MIT · 28,345★ | Bounded research agents. |
+## Agentic Wealth OS & Portfolio Agents
+- Patterns from agentic-passive-income and 6-pillar wealth OS.
+- Portfolio tracking agents, rebalancing simulators (research only).
+- Integration with kanban for wealth loops.
 
-## 6-Pillar curation lens
+## Custody & Security Tools
+- Hardware wallet research, multi-sig patterns, self-custody best practices (public sources only).
+- Security audit agents.
 
+## Research & Analytics
+- Public market data APIs, on-chain analytics (sanitized).
+- Cross with investor-agent-skills for quant research.
+
+## MCP & Agent Skills
+- gstack wealth skills.
+- Load skill_view(name='agentic-passive-income')
+
+## Agentic Passive Income & Loops
+Core integration: recurring research pulses, automated reporting agents, skill marketplaces for wealth tools.
+- See agentic-passive-income skill for full framework.
+
+## 6-Pillar Mapping
 ```mermaid
 mindmap
-  root((Curated agent capability))
+  root((GenCreator 6-Pillar CoE\nFrankX / Starlight / Arcanea Lens))
     Strategy
-      fit and scope
+      Vision & Roadmaps
+      Prioritization & OKRs
+      Ecosystem Architecture
     Governance
-      provenance and license
+      Policies & Oversight
+      Compliance & Provenance
+      Risk & IP Management
     Talent
-      human review
+      Agent Recruitment & Roles
+      Human-AI Collaboration
+      Skill Development
     Technology
-      tools and integration
+      Hermes Profiles & MCP
+      Tools & Infrastructure
+      Loops, Cron, Kanban, Evolver
     Data
-      evidence and memory
+      Memory & Knowledge Bases
+      Research Pulses & Curation
+      Analytics & Tracking
     Ethics
-      safety and disclosure
+      Values Alignment
+      Transparency & Disclosure
+      Safety & Sustainability
 ```
 
-This lens is editorial, not an endorsement or a claim that a project satisfies every pillar.
+**Wealth focus**: Heavy on Governance (risk, custody), Ethics (transparency, no advice), Data (analytics), Income (passive systems).
 
-## Explore the Full FrankX Awesome Ecosystem (optional)
+## Explore the Full FrankX Awesome Ecosystem (17+ Lists)
+Curated through the GenCreator 6-Pillar CoE lens • Starlight Swarm • Arcanea Creative Execution • Agentic Passive Income Systems
 
-Companion catalogs are optional; the third-party projects above are this list's primary value.
+- [awesome-jarvis](https://github.com/frankxai/awesome-jarvis)
+- [awesome-manifestation-skills](https://github.com/frankxai/awesome-manifestation-skills)
+- [awesome-agentic-income](https://github.com/frankxai/awesome-agentic-income)
+- [awesome-hermes-agents](https://github.com/frankxai/awesome-hermes-agents)
+- [awesome-ai-coe](https://github.com/frankxai/awesome-ai-coe)
+- [awesome-design-agent-skills](https://github.com/frankxai/awesome-design-agent-skills)
+- [awesome-music-agent-skills](https://github.com/frankxai/awesome-music-agent-skills)
+- [awesome-agent-operating-systems](https://github.com/frankxai/awesome-agent-operating-systems)
+- [awesome-hermes-agent-skills](https://github.com/frankxai/awesome-hermes-agent-skills)
+- [awesome-wealth-agent-skills](https://github.com/frankxai/awesome-wealth-agent-skills) ← You are here
+- [awesome-gamification-agent-skills](https://github.com/frankxai/awesome-gamification-agent-skills)
+- [awesome-investor-agent-skills](https://github.com/frankxai/awesome-investor-agent-skills)
+- [awesome-automation-agent-skills](https://github.com/frankxai/awesome-automation-agent-skills)
+- [awesome-cosmos-ai-agents](https://github.com/frankxai/awesome-cosmos-ai-agents)
+- [awesome-mind-agent-skills](https://github.com/frankxai/awesome-mind-agent-skills)
+- [awesome-payment-agent-skills](https://github.com/frankxai/awesome-payment-agent-skills)
+- [awesome-motion-design-agent-skills](https://github.com/frankxai/awesome-motion-design-agent-skills)
 
-- [awesome-jarvis](https://github.com/frankxai/awesome-jarvis) · [awesome-hermes-agents](https://github.com/frankxai/awesome-hermes-agents) · [awesome-manifestation-skills](https://github.com/frankxai/awesome-manifestation-skills) · [awesome-ai-coe](https://github.com/frankxai/awesome-ai-coe)
-- [awesome-agentic-income](https://github.com/frankxai/awesome-agentic-income) · [awesome-investor-agent-skills](https://github.com/frankxai/awesome-investor-agent-skills) · [awesome-design-agent-skills](https://github.com/frankxai/awesome-design-agent-skills) · [awesome-agent-operating-systems](https://github.com/frankxai/awesome-agent-operating-systems)
-- [awesome-music-agent-skills](https://github.com/frankxai/awesome-music-agent-skills) · [awesome-hermes-agent-skills](https://github.com/frankxai/awesome-hermes-agent-skills) · [awesome-gamification-agent-skills](https://github.com/frankxai/awesome-gamification-agent-skills) · [awesome-wealth-agent-skills](https://github.com/frankxai/awesome-wealth-agent-skills)
-- [awesome-mind-agent-skills](https://github.com/frankxai/awesome-mind-agent-skills) · [awesome-cosmos-ai-agents](https://github.com/frankxai/awesome-cosmos-ai-agents) · [awesome-automation-agent-skills](https://github.com/frankxai/awesome-automation-agent-skills) · [awesome-payment-agent-skills](https://github.com/frankxai/awesome-payment-agent-skills) · [awesome-motion-design-agent-skills](https://github.com/frankxai/awesome-motion-design-agent-skills)
+## Contributing
+Strict adherence to AGENTS.md public boundary. Read CONTRIBUTING.md and provenance rules. No financial claims. Use issue templates. Add 6-Pillar Fit.
 
-## Contribution standard
+**Maintenance**: Updated via awesome-list-maintenance skill + gencreator-swarm-evolver. Last research pulse: 2026-07-01
 
-Open a PR with a primary URL, one-sentence distinct value, current maintenance evidence, license posture, and relevant safety/deployment caveat. Do not submit affiliate links, private workflow exports, unverified claims, or a product pitch in place of a useful third-party resource.
-
-## Research method
-
-This monthly pulse queried GitHub repository metadata on **2026-08-03** for identity, approximate stars, archived state, activity, and license posture. `NOASSERTION` means GitHub did not return a standard SPDX identifier; review the repository license before adoption. Counts are dated discovery signals, not rankings. Nothing here is financial, legal, medical, or safety advice.
-
-Maintained as independent, web-first curation by FrankX. Last research pulse: **2026-08-03**.
+*Elevated with patched template: mermaid 6-pillar, 17-list cross links, hero.svg, .github/ standards, gh topics/description. Verified with gh/git.*

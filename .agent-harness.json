@@ -1,7 +1,20 @@
 {
   "name": "awesome-wealth-agent-skills",
-  "type": "awesome-list",
-  "version": "1.0.0",
-  "ecosystem": "FrankX GenCreator",
-  "capabilities": ["markdown-lint", "link-check"]
+  "classification": "content-or-program",
+  "owner": "FrankX AI",
+  "updated": "2026-06-23",
+  "remote": "https://github.com/frankxai/awesome-wealth-agent-skills.git",
+  "health": {
+    "primaryCheck": "./scripts/validate-catalog.ps1",
+    "manualChecks": [
+      "Review AGENTS.md before edits",
+      "Preserve public/private boundary",
+      "Scan public outputs for wallet material and regulated claims"
+    ]
+  },
+  "agentGuidance": {
+    "readAgentsMd": true,
+    "avoidPrivateMemory": true,
+    "preserveExistingConventions": true
+  }
 }
