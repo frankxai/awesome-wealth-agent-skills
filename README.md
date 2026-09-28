@@ -1,6 +1,6 @@
 # Awesome Wealth Agent Skills
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/frankxai/awesome-wealth-agent-skills?style=flat)](https://github.com/frankxai/awesome-wealth-agent-skills/stargazers) [![Last commit](https://img.shields.io/github/last-commit/frankxai/awesome-wealth-agent-skills?style=flat)](https://github.com/frankxai/awesome-wealth-agent-skills/commits/main)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/frankxai/awesome-wealth-agent-skills?style=flat)](https://github.com/frankxai/awesome-wealth-agent-skills) [![Last commit](https://img.shields.io/github/last-commit/frankxai/awesome-wealth-agent-skills?style=flat)](https://github.com/frankxai/awesome-wealth-agent-skills/commits/main)
 
 > Web-first resources for financial research, reporting, scenario analysis, and governance—educational and analytical only, never personalized financial advice.
 
